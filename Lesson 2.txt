@@ -1,0 +1,4 @@
+Lesson 2.
+1) val school = listOf(“shark”, “salmon”, “minnow”)
+2) 357
+3) The variable rocks can be set to null.
